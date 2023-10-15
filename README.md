@@ -1,2 +1,2 @@
-# sptech-bd-aula-09-10-2023-dependencia-funcional
-Relacionamento de dependência.
+# SPTech | Banco de dados - AULA 09/10/2023
+- Relacionamento de dependência.
